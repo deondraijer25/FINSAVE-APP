@@ -1,0 +1,1758 @@
+{
+  "persoonsgegevens": {
+    "aanvrager": {
+      "voornamen": {
+        "val": "Jim",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "initialen": {
+        "val": "J.",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geslachtsnaam": {
+        "val": "Meijden",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "voorvoegselsGeslachtsnaam": {
+        "val": "van der",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "achternaam": {
+        "val": "van der Meijden",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geslacht": {
+        "val": "Man",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geboortedatum": {
+        "val": "19-05-1974",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geboorteplaats": {
+        "val": "Utrecht",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geboorteland": {
+        "val": "Nederland",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "geboortelandCode": {
+        "val": "NL",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "nationaliteit": {
+        "val": "Nederlandse",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "landcode": {
+        "val": "NL",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "emailAdres": {
+        "val": "jim@wim.nl",
+        "meta": {
+          "bron": "moh",
+          "datum": "21-12-2019"
+        }
+      },
+      "bankrekeningnummer": {
+        "val": "NL57RABO1470232222",
+        "meta": {
+          "bron": "mbd",
+          "datum": "21-12-2019"
+        }
+      },
+      "bankrekeningnummers": {
+        "val": [
+          "NL57RABO1470235110",
+          "NL70INGB0751160261",
+          "NL70INGB0751160261"
+        ],
+        "meta": {
+          "bron": "mbd",
+          "datum": "21-12-2019"
+        }
+      },
+      "burgerlijkeStaat": {
+        "gehuwd": {
+          "val": true,
+          "meta": {
+            "bron": "moh",
+            "datum": "21-12-2019"
+          }
+        },
+        "geregistreerdPartnerschap": {
+          "val": false,
+          "meta": {
+            "bron": "moh",
+            "datum": "21-12-2019"
+          }
+        },
+        "indSamenwonendEnFiscaalPartnerschap": {
+          "val": true,
+          "meta": {
+            "bron": "mbd",
+            "datum": "21-12-2019"
+          }
+        }
+      }
+    },
+    "adressen": {
+      "val": [
+        {
+          "postcode": "3531BB",
+          "straat": "Lombokstraat",
+          "woonplaatsnaam": "Utrecht",
+          "gemeenteVanInschrijving": "Utrecht",
+          "huisnummer": "120",
+          "huisnummerToevoeging": "A",
+          "vanafDatum": "05-10-2010",
+          "huidig": true
+        },
+        {
+          "postcode": "3531KL",
+          "straat": "Surinamestraat",
+          "huisnummer": "38",
+          "gemeenteVanInschrijving": "Utrecht",
+          "vanafDatum": "10-11-1999",
+          "huidig": false
+        },
+        {
+          "postcode": "3434SO",
+          "straat": "Gravin Louisesingel",
+          "huisnummer": "12",
+          "gemeenteVanInschrijving": "Nieuwegein",
+          "vanafDatum": "22-07-1980",
+          "huidig": false
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "adressenOnroerendGoedGecombineerd": {
+      "val": [
+        {
+          "postcode": "3531BB",
+          "straat": "Lombokstraat",
+          "woonplaatsnaam": "Utrecht",
+          "gemeenteVanInschrijving": "Utrecht",
+          "huisnummer": "120",
+          "huisnummerToevoeging": "A",
+          "vanafDatum": "05-10-2010",
+          "huidig": true,
+          "kadastraleAanduiding": "Catharijne C 9631 2",
+          "wozWaarde": 260000,
+          "peildatum": "01-01-2020",
+          "plaatsnaam": "Utrecht",
+          "situatieBewoning": "01",
+          "gebruiksdoel": "Woonfunctie",
+          "oppervlakte": 75,
+          "status": "Verblijfsobject in gebruik",
+          "bouwjaar": 1906,
+          "aandeelPercentage": 100,
+          "eigendomsRecht": true,
+          "koopjaar": "2008",
+          "koopsom": 212000,
+          "wozWaardeOntwikkeling": [
+            {
+              "peildatum": "01-01-2020",
+              "waarde": 260000
+            },
+            {
+              "peildatum": "01-01-2019",
+              "waarde": 231000
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "identificatiedocumenten": {
+      "val": [
+        {
+          "nummer": "NV6ABCDC5",
+          "soortDocument": "paspoort",
+          "geldigTot": "27-12-2028",
+          "afgifteDatum": "27-12-2018",
+          "geldigOpVergaarDatum": true,
+          "aantalDagenGeldigOpVergaarDatum": 3170
+        },
+        {
+          "nummer": "ABCDEF",
+          "soortDocument": "idKaart",
+          "geldigTot": "27-12-2028",
+          "afgifteDatum": "27-12-2018",
+          "geldigOpVergaarDatum": true,
+          "aantalDagenGeldigOpVergaarDatum": 3170
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "partner": {
+      "val": {
+        "voornamen": "Beatrijs Maria Pauline",
+        "initialen": "B.M.P.",
+        "voorvoegselsGeslachtsnaam": "de",
+        "geslachtsnaam": "Tester",
+        "achternaam": "de Tester",
+        "geslacht": "Vrouw",
+        "geboortedatum": "08-12-1979",
+        "geboorteplaats": "Haarlem",
+        "geboorteland": "Nederland",
+        "geboortelandCode": "NL",
+        "soortVerbintenis": "Huwelijk",
+        "datumHuwelijk": "02-09-1970"
+      },
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "voormaligePartners": {
+      "val": [
+        {
+          "voornamen": "Johanna Dirkje",
+          "geslachtsnaam": "Vroeger",
+          "geslacht": "Vrouw",
+          "geboortedatum": "09-03-1974",
+          "geboorteplaats": "'s-Gravenhage",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL",
+          "indGehuwd": true,
+          "indGeregistreerdPartnerschap": false,
+          "datumOntbinding": "06-03-2011",
+          "ingangsDatumHuwelijk": "12-05-1999"
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "kinderen": {
+      "val": [
+        {
+          "voornamen": "Evert",
+          "initialen": "E.",
+          "geslachtsnaam": "Meijden",
+          "voorvoegselsGeslachtsnaam": "van der",
+          "achternaam": "van der Meijden",
+          "geboortedatum": "12-10-2011",
+          "geboorteplaats": "Eindhoven",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL"
+        },
+        {
+          "voornamen": "Dagobert",
+          "initialen": "D.",
+          "geslachtsnaam": "Meijden",
+          "voorvoegselsGeslachtsnaam": "van der",
+          "achternaam": "van der Meijden",
+          "geboortedatum": "06-11-2008",
+          "geboorteplaats": "Eindhoven",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL"
+        },
+        {
+          "voornamen": "Donald",
+          "initialen": "D.",
+          "geslachtsnaam": "Meijden",
+          "voorvoegselsGeslachtsnaam": "van der",
+          "achternaam": "van der Meijden",
+          "geboortedatum": "06-12-2009",
+          "geboorteplaats": "Eindhoven",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL"
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "ouders": {
+      "val": [
+        {
+          "voornamen": "Jacques Henri",
+          "initialen": "J.H.",
+          "geslachtsnaam": "Meijden",
+          "voorvoegselsGeslachtsnaam": "van der",
+          "achternaam": "van der Meijden",
+          "geslacht": "Man",
+          "geboortedatum": "10-04-1946",
+          "geboorteplaats": "Utrecht",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL"
+        },
+        {
+          "voornamen": "Maria",
+          "initialen": "M.",
+          "geslachtsnaam": "Averbeek",
+          "achternaam": "Averbeek",
+          "geslacht": "Vrouw",
+          "geboortedatum": "31-08-1945",
+          "geboorteplaats": "Utrecht",
+          "geboorteland": "Nederland",
+          "geboortelandCode": "NL"
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    }
+  },
+  "uuid": "6eccf107-23e1-11ea-a08f-53d9c46ca94f",
+  "inkomens": {
+    "toetsinkomen": {
+      "val": {
+        "signatureGeldig": true,
+        "signatureDatum": "26-06-2020 13:20:10",
+        "toetsinkomen": 2000
+      },
+      "meta": {
+        "bron": "uwv",
+        "datum": "26-06-2020"
+      }
+    },
+    "verzamelinkomens": {
+      "val": [
+        {
+          "jaar": "2015",
+          "bedrag": 105873
+        },
+        {
+          "jaar": "2016",
+          "bedrag": 110125
+        },
+        {
+          "jaar": "2017",
+          "bedrag": 9658
+        },
+        {
+          "jaar": "2018",
+          "bedrag": -8377
+        },
+        {
+          "jaar": "2019",
+          "bedrag": null
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "arbeidsverleden": {
+      "arbeidsverledenInJaren": {
+        "val": 21,
+        "meta": {
+          "bron": "uwv",
+          "datum": "21-12-2019"
+        }
+      },
+      "arbeidsverledenDetails": {
+        "val": [
+          {
+            "jaar": 2018,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK U.A.",
+                "aantalUren": 1713
+              }
+            ]
+          },
+          {
+            "jaar": 2017,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK U.A.",
+                "aantalUren": 1579
+              }
+            ]
+          },
+          {
+            "jaar": 2016,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK U.A.",
+                "aantalUren": 1690
+              }
+            ]
+          },
+          {
+            "jaar": 2015,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK HELMOND U.A.",
+                "aantalUren": 1572
+              }
+            ]
+          },
+          {
+            "jaar": 2014,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK HELMOND U.A.",
+                "aantalUren": 1602
+              }
+            ]
+          },
+          {
+            "jaar": 2013,
+            "werkgevers": [
+              {
+                "instantieWerkgever": "COOPERATIEVE RABOBANK HELMOND U.A.",
+                "aantalUren": 1946
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "bron": "uwv",
+          "datum": "21-12-2019"
+        }
+      }
+    },
+    "werkgevers": {
+      "val": [
+        {
+          "werkgever": "COOPERATIEVE RABOBANK HELMOND U.A.",
+          "loonheffingenNr": "12345378L01",
+          "indInVasteDienst": true,
+          "indIsHuidigeWerkgever": false,
+          "indDertiendeMaand": true,
+          "indOproepovereenkomst": false,
+          "indSchriftArbeidsovereenkomst": true,
+          "indVerzekerdWaoIvaWga": true,
+          "indVerzekerdWw": true,
+          "indVerzekerdZw": true,
+          "salaris": 5233,
+          "slips": [
+            {
+              "startDatum": "01-12-2015",
+              "eindDatum": "31-12-2015",
+              "aantalUren": 75,
+              "brutoSalaris": 10847.72,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-11-2015",
+              "eindDatum": "30-11-2015",
+              "aantalUren": 43,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-10-2015",
+              "eindDatum": "31-10-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-09-2015",
+              "eindDatum": "30-09-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-08-2015",
+              "eindDatum": "31-08-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-07-2015",
+              "eindDatum": "31-07-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-06-2015",
+              "eindDatum": "30-06-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5233.5,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-05-2015",
+              "eindDatum": "31-05-2015",
+              "aantalUren": 152,
+              "brutoSalaris": 11057.98,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-04-2015",
+              "eindDatum": "30-04-2015",
+              "aantalUren": 156,
+              "brutoSalaris": 5902.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-03-2015",
+              "eindDatum": "31-03-2015",
+              "aantalUren": 156,
+              "brutoSalaris": 5758.62,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-02-2015",
+              "eindDatum": "28-02-2015",
+              "aantalUren": 156,
+              "brutoSalaris": 5758.62,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-01-2015",
+              "eindDatum": "31-01-2015",
+              "aantalUren": 139,
+              "brutoSalaris": 5106.36,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            }
+          ],
+          "incomePeriodType": "Monthly"
+        },
+        {
+          "werkgever": "COOPERATIEVE RABOBANK U.A.",
+          "loonheffingenNr": "12345502L01",
+          "indInVasteDienst": true,
+          "indIsHuidigeWerkgever": true,
+          "indDertiendeMaand": true,
+          "indOproepovereenkomst": false,
+          "indSchriftArbeidsovereenkomst": true,
+          "indVerzekerdWaoIvaWga": true,
+          "indVerzekerdWw": true,
+          "indVerzekerdZw": true,
+          "salaris": 6317,
+          "slips": [
+            {
+              "startDatum": "01-11-2019",
+              "eindDatum": "30-11-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6317.82,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-10-2019",
+              "eindDatum": "31-10-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6317.82,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-09-2019",
+              "eindDatum": "30-09-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6317.82,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-08-2019",
+              "eindDatum": "31-08-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6317.82,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-07-2019",
+              "eindDatum": "31-07-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6317.82,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-06-2019",
+              "eindDatum": "30-06-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6258.87,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-05-2019",
+              "eindDatum": "31-05-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 12222.78,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-04-2019",
+              "eindDatum": "30-04-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6272.35,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-03-2019",
+              "eindDatum": "31-03-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6272.35,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-02-2019",
+              "eindDatum": "28-02-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6272.35,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-01-2019",
+              "eindDatum": "31-01-2019",
+              "aantalUren": 156,
+              "brutoSalaris": 6272.35,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-12-2018",
+              "eindDatum": "31-12-2018",
+              "aantalUren": 12,
+              "brutoSalaris": 13873.3,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-11-2018",
+              "eindDatum": "30-11-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6279.55,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-10-2018",
+              "eindDatum": "31-10-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 7021.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-09-2018",
+              "eindDatum": "30-09-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6277.23,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-08-2018",
+              "eindDatum": "31-08-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6277.23,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-07-2018",
+              "eindDatum": "31-07-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6277.23,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-06-2018",
+              "eindDatum": "30-06-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6277.23,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-05-2018",
+              "eindDatum": "31-05-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 11803.21,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-04-2018",
+              "eindDatum": "30-04-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6286.33,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-03-2018",
+              "eindDatum": "31-03-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6286.33,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-02-2018",
+              "eindDatum": "28-02-2018",
+              "aantalUren": 156,
+              "brutoSalaris": 6286.33,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-01-2018",
+              "eindDatum": "31-01-2018",
+              "aantalUren": 141,
+              "brutoSalaris": 5768.25,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-12-2017",
+              "eindDatum": "31-12-2017",
+              "aantalUren": 0,
+              "brutoSalaris": 11761.95,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 540.78
+            },
+            {
+              "startDatum": "01-11-2017",
+              "eindDatum": "30-11-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 5994.4,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 540.78
+            },
+            {
+              "startDatum": "01-10-2017",
+              "eindDatum": "31-10-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 6693.03,
+              "eigenBijdrageAuto": 23.03,
+              "fiscaleBijtellingAuto": 495.66
+            },
+            {
+              "startDatum": "01-09-2017",
+              "eindDatum": "30-09-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 5707.54,
+              "eigenBijdrageAuto": 31.73,
+              "fiscaleBijtellingAuto": 226.24
+            },
+            {
+              "startDatum": "01-08-2017",
+              "eindDatum": "31-08-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 5513.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-07-2017",
+              "eindDatum": "31-07-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 5513.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-06-2017",
+              "eindDatum": "30-06-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 5513.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-05-2017",
+              "eindDatum": "31-05-2017",
+              "aantalUren": 139,
+              "brutoSalaris": 11353.27,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-04-2017",
+              "eindDatum": "30-04-2017",
+              "aantalUren": 138,
+              "brutoSalaris": 5513.03,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-03-2017",
+              "eindDatum": "31-03-2017",
+              "aantalUren": 156,
+              "brutoSalaris": 6292.96,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-02-2017",
+              "eindDatum": "28-02-2017",
+              "aantalUren": 156,
+              "brutoSalaris": 6292.96,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-01-2017",
+              "eindDatum": "31-01-2017",
+              "aantalUren": 156,
+              "brutoSalaris": 6293.02,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-12-2016",
+              "eindDatum": "31-12-2016",
+              "aantalUren": 56,
+              "brutoSalaris": 15278.6,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-11-2016",
+              "eindDatum": "30-11-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6276.74,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-10-2016",
+              "eindDatum": "31-10-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6182.92,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-09-2016",
+              "eindDatum": "30-09-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6276.74,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-08-2016",
+              "eindDatum": "31-08-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6276.74,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-07-2016",
+              "eindDatum": "31-07-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6276.74,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-06-2016",
+              "eindDatum": "30-06-2016",
+              "aantalUren": 156,
+              "brutoSalaris": 6370.56,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-05-2016",
+              "eindDatum": "31-05-2016",
+              "aantalUren": 142,
+              "brutoSalaris": 10997.19,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-04-2016",
+              "eindDatum": "30-04-2016",
+              "aantalUren": 139,
+              "brutoSalaris": 5600.96,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-03-2016",
+              "eindDatum": "31-03-2016",
+              "aantalUren": 139,
+              "brutoSalaris": 5532.57,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-02-2016",
+              "eindDatum": "29-02-2016",
+              "aantalUren": 139,
+              "brutoSalaris": 5532.57,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            },
+            {
+              "startDatum": "01-01-2016",
+              "eindDatum": "31-01-2016",
+              "aantalUren": 139,
+              "brutoSalaris": 5139.7,
+              "eigenBijdrageAuto": 0,
+              "fiscaleBijtellingAuto": 0
+            }
+          ],
+          "incomePeriodType": "Monthly"
+        }
+      ],
+      "meta": {
+        "bron": "uwv",
+        "datum": "21-12-2019"
+      }
+    },
+    "belastingaangifte": {
+      "jaar": {
+        "val": 2018,
+        "meta": {
+          "bron": "mbd",
+          "datum": "21-12-2019"
+        }
+      },
+      "inkomens": {
+        "val": [
+          {
+            "instantieWerkgever": "Rabobank",
+            "brutoloon": 100000,
+            "sivCode": "15"
+          }
+        ],
+        "meta": {
+          "bron": "mbd",
+          "datum": "21-12-2019"
+        }
+      }
+    },
+    "ontvangenAlimentatie": {
+      "val": 1000,
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    }
+  },
+  "bezittingen": {
+    "voertuigen": {
+      "val": [
+        {
+          "kenteken": "JT-RG-21",
+          "voertuigsoort": "Personenauto",
+          "merk": "TOYOTA",
+          "handelsbenaming": "COROLLA 1.3 3D HB XLI-E2",
+          "brandstof": "Benzine",
+          "vervalDatumAPK": "18-01-2021",
+          "datumTenaamstelling": "25-03-2005",
+          "bpm": 2542,
+          "indWamVerzekerd": true
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "29-05-2020"
+      }
+    },
+    "onroerendGoed": {
+      "val": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "kadastraleAanduiding": "Catharijne C 9631 2",
+          "wozWaarde": 260000,
+          "peildatum": "01-01-2020",
+          "plaatsnaam": "Utrecht",
+          "straatNaam": "Lombokstraat",
+          "huisnummer": "110",
+          "huisnummerToevoeging": "A",
+          "postcode": "3531BB",
+          "situatieBewoning": "01",
+          "gebruiksdoel": "Woonfunctie",
+          "oppervlakte": 75,
+          "status": "Verblijfsobject in gebruik",
+          "bouwjaar": 1906,
+          "aandeelPercentage": 100,
+          "eigendomsRecht": true,
+          "koopjaar": "2008",
+          "koopsom": 212000,
+          "transactiedatum": "15-03-2010",
+          "wozWaardeOntwikkeling": [
+            {
+              "peildatum": "01-01-2020",
+              "waarde": 260000
+            },
+            {
+              "peildatum": "01-01-2019",
+              "waarde": 231000
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "bron": "moh",
+        "datum": "21-12-2019"
+      }
+    },
+    "bankrekeningen": {
+      "val": [
+        {
+          "omschrijving": "Rabobank Rabo InternetSparen",
+          "rekNr": "1234535110",
+          "waarde": 30500,
+          "gezamenlijkBezit": false,
+          "instantie": "Rabobank",
+          "type": "BANKREKENING"
+        },
+        {
+          "omschrijving": "ING Betaalrekening",
+          "rekNr": "1234560261",
+          "waarde": 45,
+          "gezamenlijkBezit": false,
+          "instantie": "ING",
+          "type": "BANKREKENING"
+        },
+        {
+          "omschrijving": "ING Oranje Spaarrekening",
+          "rekNr": "1234560261",
+          "waarde": 1,
+          "gezamenlijkBezit": false,
+          "instantie": "ING",
+          "type": "BANKREKENING"
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "kapitaalverzekeringen": {
+      "val": [
+        {
+          "label": "OK MIN WAARDE ECONOMISCH VERKEER",
+          "rekeningnummer": "POLIS30",
+          "waarde": 7034
+        },
+        {
+          "label": "OK MIN WAARDE ECONOMISCH VERKEER",
+          "rekeningnummer": "12345678",
+          "waarde": 1000
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "premiedepots": {
+      "val": [
+        {
+          "label": "OK KWALIFICATIE",
+          "rekeningnummer": "POLIS170",
+          "waarde": 2500
+        },
+        {
+          "label": "OK KWALIFICATIE",
+          "rekeningnummer": "12345789",
+          "waarde": 2500
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    }
+  },
+  "betaaldePremies": {
+    "lijfrente": {
+      "val": [
+        {
+          "label": "SRLEV N.V.Participatieplan",
+          "rekeningnummer": "123451",
+          "premie": 1190
+        },
+        {
+          "label": "ABNLV",
+          "rekeningnummer": "12345041"
+        },
+        {
+          "label": "ABNLV",
+          "rekeningnummer": "12345041",
+          "premie": 7777
+        },
+        {
+          "label": "ABNLV",
+          "rekeningnummer": "12345041"
+        },
+        {
+          "label": "AEGONLV",
+          "rekeningnummer": "12345041",
+          "premie": 9999
+        },
+        {
+          "label": "AEGONLV",
+          "rekeningnummer": "12345042",
+          "premie": 8888
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "inlegbetalingen": {
+      "val": [
+        {
+          "rekeningnummer": "1234527",
+          "premie": 8000
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "nettoPensioen": {
+      "val": [
+        {
+          "label": "OK MEERDERE RENS RSIN-PRODUCTNUMMER-PRODUCTID-BSN",
+          "rekeningnummer": "POLIS25",
+          "productnaam": 25,
+          "productId": 25,
+          "premie": 8000
+        },
+        {
+          "label": "OK MEERDERE RENS RSIN-PRODUCTNUMMER-PRODUCTID-BSN",
+          "rekeningnummer": "POLIS25",
+          "productnaam": 25,
+          "productId": 25,
+          "premie": 8000
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "aov": {
+      "val": [
+        {
+          "label": "AOV",
+          "productId": 1,
+          "polisNr": "12103486033",
+          "premie": 1655
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    }
+  },
+  "schulden": {
+    "hypotheekdelen": {
+      "val": [
+        {
+          "label": "Aflossingsvrije Hypotheek",
+          "maatschappijAfgeleid": null,
+          "hdnMijCode": "XX",
+          "soortHypotheekAfgeleid": "Aflosvrij",
+          "gezamelijkeSchuld": false,
+          "rekeningnummer": "123459 (leningdeel 2.0)",
+          "startBedrag": 0,
+          "beginstand": 66250,
+          "eindstand": 66250,
+          "begindatumBerekend": "01-11-2009",
+          "einddatumBerekend": "01-11-2039",
+          "resterendeLooptijdInMaandenBerekend": 235,
+          "eigenWoningSchuld": 66250,
+          "rentePercentageBerekend": 3.1,
+          "betaaldeRente": 2054,
+          "betaaldeRenteEigenWoningSchuld": 2054,
+          "rsin": "1028418"
+        },
+        {
+          "label": "ING Bankspaarhypotheek",
+          "maatschappijAfgeleid": "ING",
+          "hdnMijCode": "IN",
+          "soortHypotheekAfgeleid": "Bankspaarhypotheek",
+          "gezamelijkeSchuld": false,
+          "rekeningnummer": "123459 (leningdeel 1.0)",
+          "startBedrag": 0,
+          "beginstand": 125250,
+          "eindstand": 125250,
+          "begindatumBerekend": null,
+          "einddatumBerekend": null,
+          "resterendeLooptijdInMaandenBerekend": null,
+          "eigenWoningSchuld": 125250,
+          "rentePercentageBerekend": 3.1,
+          "betaaldeRente": 3883,
+          "betaaldeRenteEigenWoningSchuld": 3883,
+          "rsin": "1028418"
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    },
+    "studieschuld": {
+      "val": {
+        "beginstand": 10000,
+        "huidigeStand": 5000,
+        "startdatum": "01-09-2010"
+      },
+      "meta": {
+        "bron": "duo",
+        "datum": "21-12-2019"
+      }
+    },
+    "overigeSchulden": {
+      "val": [
+        {
+          "label": "Rabobank Beleggersrekening",
+          "rekeningnummer": "1234564167",
+          "recordType": "05",
+          "gezBelang": "01",
+          "startBedrag": 0,
+          "saldo": {
+            "beginstand": 2,
+            "eindstand": null
+          }
+        },
+        {
+          "label": "Rabobank Rabo TotaalRekening",
+          "rekeningnummer": "1234571510",
+          "recordType": "05",
+          "gezBelang": "01",
+          "startBedrag": 0,
+          "saldo": {
+            "beginstand": 247,
+            "eindstand": null
+          }
+        }
+      ],
+      "meta": {
+        "bron": "mbd",
+        "datum": "21-12-2019"
+      }
+    }
+  },
+  "pensioenen": {
+    "algemeen": {
+      "val": {
+        "naam": "J van der Meijden",
+        "geslacht": "M",
+        "aowKortingsjaren": 0,
+        "aowDatum": "19-04-2039",
+        "pensioenDatum": "19-04-2037"
+      },
+      "meta": {
+        "bron": "mpo",
+        "datum": "21-12-2019"
+      }
+    },
+    "pensioenTotalen": {
+      "val": [
+        {
+          "aowUitkering": false,
+          "aowGerechtigd": false,
+          "aowAlleenstaand": null,
+          "aowSamenwonend": null,
+          "aowAlleenstaandUitkering": null,
+          "aowSamenwonendUitkering": null,
+          "brutoPensioenBedrag": 1134,
+          "brutoPensioenBedragUitkering": null,
+          "vanafLeeftijdJaren": 62,
+          "vanafLeeftijdMaanden": 0,
+          "totLeeftijdJaren": 65,
+          "totLeeftijdMaanden": 0,
+          "totOverlijden": false,
+          "vanafDatum": "19-04-2037",
+          "totDatum": "19-04-2040"
+        },
+        {
+          "aowUitkering": false,
+          "aowGerechtigd": false,
+          "aowAlleenstaand": null,
+          "aowSamenwonend": null,
+          "aowAlleenstaandUitkering": null,
+          "aowSamenwonendUitkering": null,
+          "brutoPensioenBedrag": 722,
+          "brutoPensioenBedragUitkering": null,
+          "vanafLeeftijdJaren": 65,
+          "vanafLeeftijdMaanden": 0,
+          "totLeeftijdJaren": 67,
+          "totLeeftijdMaanden": 0,
+          "totOverlijden": false,
+          "vanafDatum": "19-04-2037",
+          "totDatum": "19-04-2039"
+        },
+        {
+          "aowUitkering": false,
+          "aowGerechtigd": true,
+          "aowAlleenstaand": 15578,
+          "aowSamenwonend": 10725,
+          "aowAlleenstaandUitkering": null,
+          "aowSamenwonendUitkering": null,
+          "brutoPensioenBedrag": 1991,
+          "brutoPensioenBedragUitkering": null,
+          "vanafLeeftijdJaren": 67,
+          "vanafLeeftijdMaanden": 0,
+          "totLeeftijdJaren": 67,
+          "totLeeftijdMaanden": 3,
+          "totOverlijden": false,
+          "vanafDatum": "19-04-2039",
+          "totDatum": "19-07-2039"
+        },
+        {
+          "aowUitkering": false,
+          "aowGerechtigd": true,
+          "aowAlleenstaand": 15578,
+          "aowSamenwonend": 10725,
+          "aowAlleenstaandUitkering": null,
+          "aowSamenwonendUitkering": null,
+          "brutoPensioenBedrag": 2023,
+          "brutoPensioenBedragUitkering": null,
+          "vanafLeeftijdJaren": 67,
+          "vanafLeeftijdMaanden": 3,
+          "totOverlijden": true,
+          "vanafDatum": "19-07-2039",
+          "totDatum": null
+        }
+      ],
+      "meta": {
+        "bron": "mpo",
+        "datum": "21-12-2019"
+      }
+    },
+    "pensioenDetails": {
+      "ouderdomPensioenDetails": {
+        "val": [
+          {
+            "pensioenen": [],
+            "pensioenenIndicatief": [
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 1595,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 1595
+              },
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 0,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 0
+              }
+            ],
+            "pensioenUitkeringen": [],
+            "aow": null,
+            "vanafLeeftijdJaren": 65,
+            "vanafLeeftijdMaanden": 0,
+            "totLeeftijdJaren": 67,
+            "totLeeftijdMaanden": 0,
+            "totOverlijden": false,
+            "vanafDatum": "19-04-2037",
+            "totDatum": "19-04-2039"
+          },
+          {
+            "pensioenen": [
+              {
+                "afhandelingVerevening": null,
+                "herkenningsNummer": "12345039",
+                "opgebouwd": 64,
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019",
+                "teBereiken": 64
+              }
+            ],
+            "pensioenenIndicatief": [
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 1595,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 1595
+              },
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 0,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 0
+              }
+            ],
+            "pensioenUitkeringen": [],
+            "aow": null,
+            "vanafLeeftijdJaren": 67,
+            "vanafLeeftijdMaanden": 0,
+            "totLeeftijdJaren": 68,
+            "totLeeftijdMaanden": 0,
+            "totOverlijden": false,
+            "vanafDatum": "19-04-2037",
+            "totDatum": "19-04-2038"
+          },
+          {
+            "pensioenen": [
+              {
+                "afhandelingVerevening": null,
+                "herkenningsNummer": "12345039",
+                "opgebouwd": 64,
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019",
+                "teBereiken": 64
+              },
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-L",
+                "opgebouwd": 2585,
+                "pensioenUitvoerder": "Stichting Pensioenfonds Achmea",
+                "standPer": "01-10-2019",
+                "teBereiken": 2585
+              }
+            ],
+            "pensioenenIndicatief": [
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 1595,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 1595
+              },
+              {
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "opgebouwd": 0,
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019",
+                "teBereiken": 0
+              }
+            ],
+            "pensioenUitkeringen": [],
+            "aow": {
+              "standPer": "08-04-2020",
+              "teBereikenSamenwonend": 10932,
+              "opgebouwdSamenwonend": 6996,
+              "teBereikenAlleenstaand": 15935,
+              "opgebouwdAlleenstaand": 10198,
+              "uitkeringAlleenstaand": null,
+              "uitkeringSamenwonend": null
+            },
+            "vanafLeeftijdJaren": 68,
+            "vanafLeeftijdMaanden": 0,
+            "totOverlijden": true,
+            "vanafDatum": "19-04-2038",
+            "totDatum": null
+          }
+        ],
+        "meta": {
+          "bron": "mpo",
+          "datum": "21-12-2019"
+        }
+      },
+      "partnerPensioenDetails": {
+        "val": [
+          {
+            "pensioenen": [
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 38,
+                  "opgebouwdBedragNaPens": 38,
+                  "verzekerdBedrag": 38,
+                  "verzekerdBedragNaPens": 38
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345039",
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019"
+              },
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 1539,
+                  "opgebouwdBedragNaPens": 1539,
+                  "verzekerdBedrag": 1539,
+                  "verzekerdBedragNaPens": 1539
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-L",
+                "pensioenUitvoerder": "Stichting Pensioenfonds Achmea",
+                "standPer": "01-10-2019"
+              }
+            ],
+            "pensioenenIndicatief": [
+              {
+                "bedragen": {
+                  "opgebouwdBedragNaPens": 1117,
+                  "verzekerdBedragNaPens": 1117
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019"
+              },
+              {
+                "bedragen": {},
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019"
+              }
+            ],
+            "totLeeftijdJaren": 67,
+            "totLeeftijdMaanden": 0,
+            "totOverlijden": false,
+            "vanafOverlijdenPartner": true
+          },
+          {
+            "pensioenen": [
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 1539,
+                  "opgebouwdBedragNaPens": 1539,
+                  "verzekerdBedrag": 1539,
+                  "verzekerdBedragNaPens": 1539
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-L",
+                "pensioenUitvoerder": "Stichting Pensioenfonds Achmea",
+                "standPer": "01-10-2019"
+              },
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 33,
+                  "opgebouwdBedragNaPens": 33,
+                  "verzekerdBedrag": 33,
+                  "verzekerdBedragNaPens": 33
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345039",
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019"
+              }
+            ],
+            "pensioenenIndicatief": [
+              {
+                "bedragen": {
+                  "opgebouwdBedragNaPens": 1117,
+                  "verzekerdBedragNaPens": 1117
+                },
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019"
+              },
+              {
+                "bedragen": {},
+                "afhandelingVerevening": "Onbekend",
+                "herkenningsNummer": "12345-03649113",
+                "pensioenUitvoerder": "a.s.r.",
+                "standPer": "01-11-2019"
+              }
+            ],
+            "vanafLeeftijdJaren": 67,
+            "vanafLeeftijdMaanden": 0,
+            "totOverlijden": true,
+            "vanafOverlijdenPartner": false
+          }
+        ],
+        "meta": {
+          "bron": "mpo",
+          "datum": "21-12-2019"
+        }
+      },
+      "wezenPensioenDetails": {
+        "val": [
+          {
+            "pensioenen": [
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 9,
+                  "opgebouwdBedragNaPens": 9,
+                  "verzekerdBedrag": 9,
+                  "verzekerdBedragNaPens": 9
+                },
+                "perKind": true,
+                "herkenningsNummer": "12345039",
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019"
+              },
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 307,
+                  "opgebouwdBedragNaPens": 307,
+                  "verzekerdBedrag": 307,
+                  "verzekerdBedragNaPens": 307
+                },
+                "perKind": true,
+                "herkenningsNummer": "12345-L",
+                "pensioenUitvoerder": "Stichting Pensioenfonds Achmea",
+                "standPer": "01-10-2019"
+              }
+            ],
+            "pensioenenIndicatief": [],
+            "totLeeftijdJaren": 18,
+            "totLeeftijdMaanden": 0,
+            "totOverlijden": false,
+            "vanafOverlijdenOuder": true
+          },
+          {
+            "pensioenen": [
+              {
+                "bedragen": {
+                  "opgebouwdBedrag": 9,
+                  "opgebouwdBedragNaPens": 9,
+                  "verzekerdBedrag": 9,
+                  "verzekerdBedragNaPens": 9
+                },
+                "perKind": true,
+                "herkenningsNummer": "12345039",
+                "pensioenUitvoerder": "Stichting Pensioenfonds ABP",
+                "standPer": "17-12-2019"
+              }
+            ],
+            "pensioenenIndicatief": [],
+            "vanafLeeftijdJaren": 18,
+            "vanafLeeftijdMaanden": 0,
+            "totLeeftijdJaren": 25,
+            "totLeeftijdMaanden": 0,
+            "totOverlijden": false,
+            "vanafOverlijdenOuder": false
+          }
+        ],
+        "meta": {
+          "bron": "mpo",
+          "datum": "21-12-2019"
+        }
+      }
+    },
+    "partnerPensioenTotalen": {
+      "val": [
+        {
+          "opgebouwdBedrag": 1577,
+          "opgebouwdBedragNaPens": 1577,
+          "verzekerdBedrag": 1577,
+          "verzekerdBedragNaPens": 1577,
+          "vanafOverlijdenPartner": true,
+          "totLeeftijdJaren": 67,
+          "totLeeftijdMaanden": 0,
+          "totOverlijden": false
+        },
+        {
+          "opgebouwdBedrag": 1572,
+          "opgebouwdBedragNaPens": 1572,
+          "verzekerdBedrag": 1572,
+          "verzekerdBedragNaPens": 1572,
+          "vanafLeeftijdJaren": 67,
+          "vanafLeeftijdMaanden": 0,
+          "vanafOverlijdenPartner": false,
+          "totOverlijden": true
+        }
+      ],
+      "meta": {
+        "bron": "mpo",
+        "datum": "21-12-2019"
+      }
+    },
+    "wezenPensioenTotalen": {
+      "val": [
+        {
+          "opgebouwdBedrag": 316,
+          "opgebouwdBedragNaPens": 316,
+          "verzekerdBedrag": 316,
+          "verzekerdBedragNaPens": 316,
+          "totLeeftijdJaren": 18,
+          "totLeeftijdMaanden": 0,
+          "vanafOverlijdenOuder": true
+        },
+        {
+          "opgebouwdBedrag": 9,
+          "opgebouwdBedragNaPens": 9,
+          "verzekerdBedrag": 9,
+          "verzekerdBedragNaPens": 9,
+          "vanafLeeftijdJaren": 18,
+          "vanafLeeftijdMaanden": 0,
+          "totLeeftijdJaren": 25,
+          "totLeeftijdMaanden": 0,
+          "vanafOverlijdenOuder": false
+        }
+      ],
+      "meta": {
+        "bron": "mpo",
+        "datum": "21-12-2019"
+      }
+    }
+  }
+}

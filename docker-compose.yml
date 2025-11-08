@@ -1,0 +1,27 @@
+version: '2'
+   
+services:
+    finsave_slim:
+        build:
+            context: .
+            dockerfile: ./Dockerfile
+        working_dir: /var/www
+        command: php -S 0.0.0.0:8083 -t public
+        environment:
+            docker: "true"
+        ports:
+            - 8083:8083
+        volumes:
+            - .:/var/www
+
+             #MariaDb Service
+        networks:
+            - app-network  
+        restart: unless-stopped
+
+#Docker Networks    
+networks:
+    app-network:
+        external:
+            name: finsavedb_app-network    
+       
